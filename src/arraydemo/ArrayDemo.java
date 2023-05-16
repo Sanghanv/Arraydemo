@@ -31,10 +31,7 @@ public class ArrayDemo {
         myLetter[0] = 'V';
         myLetter[1] = 'A';
         myLetter[2] = 'I';
-        myLetter[3] = 'B';
-        myLetter[4] = 'H';
-        myLetter[5] = 'A';
-        myLetter[6] = 'V';
+        
         
         for(int i = 0; i < myLetter.length - 1 ; i++){
             System.out.println(myLetter[i]);
